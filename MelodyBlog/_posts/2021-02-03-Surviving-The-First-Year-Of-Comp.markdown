@@ -1,9 +1,14 @@
 --- 
 layout: post
-title: "Surviving The First Year Of Comp"
+title: "First Year Comp Survival Guide"
 date: 2021-02-03 23:23:05 ++ 1100
-categories: jekyll update
+categories: jekyll Duck
+author: "Melody"
+permalink: /:categories/:year/:month/:day/:title.html
 ---
 ##I am a duck
 i am a bigger duck
-:
+
+
+
+
